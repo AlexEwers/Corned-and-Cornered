@@ -10,7 +10,7 @@ https://wispre.itch.io/corned-and-cornered - Link to the game on itch.io
 
 
 # Controls
-A/D to move left/right
+A/D to move Left/Right
 
 Space to Jump
 
