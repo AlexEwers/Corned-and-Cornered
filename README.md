@@ -4,7 +4,7 @@ Created in Unity for Crudle Game Jam #31 based of the subject of "Cornered"
 
 You are a piece of corn who has to dodge the evil microwave's deadly rays so you dont get cooked.
 
-Design based on Undertale's battle mechanic
+The main design based on Undertale's battle mechanic
 
 https://wispre.itch.io/corned-and-cornered - Link to the game on itch.io
 
@@ -15,7 +15,7 @@ A/D to move left/right
 Space to Jump
 
 # My Role
-I was a programmer and I was in charge of the attack sequences and the enemy projectiles homing into the player.
+My main role was as a programmer in this project. I was responsible for developing and implementing the attack sequences and enemy projectile mechanics. Specifically. I implemented and optimised the system that allowed enemy projectiles to accurately home into the player. 
 
 # Technology
 This game was built in the Unity game engine due to the ease of use to develop a game in a short time frame.
